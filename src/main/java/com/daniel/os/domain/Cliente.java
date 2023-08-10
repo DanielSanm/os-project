@@ -3,7 +3,6 @@ package com.daniel.os.domain;
 import jakarta.persistence.Entity;
 import jakarta.persistence.OneToMany;
 
-import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
